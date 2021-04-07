@@ -1,0 +1,15 @@
+[Unit]
+Description="med-bot"
+After=multi-user.target
+[Service]
+Type=simple
+WorkingDirectory=
+ExecStart=/usr/bin/python3
+Restart=always
+SyslogIdentifier="med-bot"
+StandardInput=tty-force
+StandardOutput=syslog
+RestartSec=15
+
+[Install]
+WantedBy=default.target

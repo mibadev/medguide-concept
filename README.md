@@ -4,7 +4,7 @@ We believe in the use of chatbots in everyday clinical practice and have develop
 
 ## ⚙️ Chatbot Structure
 
-Currently the chatbot is build for Slack but can be ported to other plattforms like Mattermost or RocketChat without any problems. 
+Currently the chatbot is build for Slack but can be ported to other (more privacy focused) plattforms like Mattermost or RocketChat without any problems. 
 To ensure an easy and scalable setup the chatbot accesses a Google Sheet as main database via API and supports a variaty of media formats than can be served by the chatbot to the user
 
 

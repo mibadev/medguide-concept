@@ -28,3 +28,5 @@ To ensure an easy setup and scalable setup the chatbot accesses a Google Sheet a
 3. Download the JSON File with Credentials to access the Google Sheet Database
 4. Generate an APP TOKEN on your Slack Workspace (see Slack Docs) and enter in python executable
 5. Generate a BOT TOKEN on your Slack Workspace (see Slack Docs) and enter in python executable
+6. Replace all elements written in [] in the executables
+7. Start Python Executable on Local or Server

@@ -4,6 +4,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 from slack_bolt import App
 from slack_bolt.adapter.socket_mode import SocketModeHandler
 
+#change variables before first deployment
+
 SLACK_BOT_TOKEN = "[ENTER-BOT-TOKEN]"
 SLACK_APP_TOKEN = "[ENTER-APP-TOKEN]"
 

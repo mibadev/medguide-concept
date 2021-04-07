@@ -1,4 +1,4 @@
-# medguide Chatbot Assistant for Hospital Specific Clinical Guidelines
+# 🩺🤖 medguide Chatbot Assistant for Hospital Specific Clinical Guidelines
 
 We believe in the use of chatbots in everyday clinical practice and have developed medguide as a proof-of-concept chatbot to simplify the management and use of hospital-specific guidelines.
 

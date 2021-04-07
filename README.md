@@ -14,6 +14,8 @@ To ensure an easy setup and scalable setup the chatbot accesses a Google Sheet a
 ✳️ Google Sheet Access
 ✳️ Server to Deploy the Code [e.g. AWS EC2 Instance]
 
+✅ Tested on Linux & Windows Environments
+
 ### Python Dependencies
 	Python V-3.X
 	oauth2client.service_account
